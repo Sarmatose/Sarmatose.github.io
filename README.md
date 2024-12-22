@@ -15,7 +15,8 @@
 Ниже я выкладываю свои работы, которые я сделал за время обучения в Практикуме. Также, по мере выполнения других работ, я буду выкладывать и их.
 
 ## Дипломы и сертификаты
-- [Яндекс Практикум - Специалист по Data Science]
+- [Яндекс Практикум - Специалист по Data Science](https://github.com/Sarmatose/DS-portfolio/blob/main/Certificates/DS%20DiplomaTsarev%20Ilya.pdf)
+- [Hackaton Glowbyte Autumn Hack 2024 - 3 место](https://github.com/Sarmatose/DS-portfolio/blob/main/Certificates/Glowbyte%20Hackaton.pdf)
 - [Поколение Python. Курс для начинающих](https://stepik.org/cert/2009175)
 - [Поколение Python. Курс для продвинутых](https://stepik.org/cert/2128810)
 - [Дальневосточный Федеральный Университет. Python в примерах и задачах](https://stepik.org/cert/2146667)
